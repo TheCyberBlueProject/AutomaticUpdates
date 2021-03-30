@@ -12,7 +12,7 @@ Enable Automatically install updates (recommended) <br />
 
 Adobe Reader Updates
 
-**Iphone/Ipad Updates**
+**iPhone/iPad Updates**
 Go to Settings -> General > Software Update -> Automatic Updates <br />
 Enable Download iOS Updates <br />
 Enable Install iOS Updates <br />
