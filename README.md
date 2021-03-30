@@ -4,7 +4,11 @@ Windows Updates
 
 Chrome Updates
 
-Firefox updates
+**Firefox updates**
+Open Firefox <br />
+Go to Menu (3 parrallel lines in the top right) - Options <br />
+Scoll down through the General settings until you get to "Firefox Updates" <br />
+Enable Automatically install updates (recommended) <br />
 
 Adobe Reader Updates
 
